@@ -1,7 +1,5 @@
 # This is a simple signup form application using React JS. The main purpose is to have a simple application interaction to insert the Device SDK
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
