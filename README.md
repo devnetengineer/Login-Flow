@@ -1,4 +1,6 @@
-# This is a simple signup form application using React JS. The main purpose is to have a simple application interaction to insert the Device SDK
+#Signup Application 
+
+This is a simple signup form application using React JS. The main purpose is to have a simple application interaction to insert the Device SDK
 
 ## Available Scripts
 
